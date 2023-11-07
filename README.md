@@ -1,5 +1,11 @@
 # -Voice-Controlled-Smart-Wheelchair-Using-Arduino-and-Bluetooth
 
+Short Summary : Made a prototype for a voice controlled wheelchair using Arduino. An app was made to 
+provide an interface for the user for giving commands. Automatic detection of obstacles and 
+alarm systems were also added.
+
+
+
 This project was conceived as an idea to ease the lives of those among
 us who are unfortunate enough to have lost the ability to move their legs
 due to a significant amount of paralysis, accident or due to old age. A
